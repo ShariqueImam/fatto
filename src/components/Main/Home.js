@@ -1,5 +1,5 @@
 import React from "react";
-import bgImg from "../../assets/fatto-images/banner.jpg";
+import bgImg from "../../assets/banner.jpg";
 import styled from "styled-components";
 import useWindowSize from "../../hooks/useWindowSize";
 import Navbar from "../UI/Navbar/Navbar";
